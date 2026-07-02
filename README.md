@@ -12,66 +12,18 @@
 
 <p>
   <a href="#about-me"><img src="https://img.shields.io/badge/Mode-Rem%20%26%20Yotsuba-6C63FF?style=for-the-badge" alt="about mode" /></a>
-  <a href="#tech-arsenal"><img src="https://img.shields.io/badge/Mode-Miku%20%26%20Emu%20x%20Nene-00D1B2?style=for-the-badge" alt="tech mode" /></a>
-  <a href="#power-level"><img src="https://img.shields.io/badge/Mode-Uma%20%26%20Mambo-FFA62B?style=for-the-badge" alt="stats mode" /></a>
-  <a href="#final-form"><img src="https://img.shields.io/badge/Mode-Asuka%20%26%20Reze-E63946?style=for-the-badge" alt="final mode" /></a>
-</p>
-
-<img src="https://anime-girls-holding-programming-books.vercel.app/api?name=Johan%20Teran&anime=Spy%20x%20Family&top_languages=Python,JavaScript,PHP" alt="anime card" />
-
-<img src="./assets/gifs/rem.gif" width="24%" alt="Rem" />
-<img src="./assets/gifs/yotsuba.gif" width="24%" alt="Yotsuba" />
-<img src="./assets/gifs/miku.gif" width="24%" alt="Hatsune Miku" />
-<img src="./assets/gifs/emu_otori.gif" width="24%" alt="Emu Otori" />
-<img src="./assets/gifs/nene_kusanagi.gif" width="24%" alt="Nene Kusanagi" />
-<img src="./assets/gifs/emu_x_nene.gif" width="24%" alt="Emu x Nene" />
+## Manga Panels
 
 </div>
+
+| Block | Content |
+|---|---|
+| About: Rem x Yotsuba | Estudiante de Ingenieria en Informatica en UPIICSA-IPN. Backend + automatizacion + constancia diaria. <br/><br/><img src="./assets/gifs/rem.gif" width="48%" alt="rem gif" /> <img src="./assets/gifs/yotsuba.gif" width="48%" alt="yotsuba gif" /> |
+| Build: Miku x Emu x Nene | Precision + creatividad + teamwork para convertir ideas en software real. <br/><br/><img src="https://skillicons.dev/icons?i=python,php,js,nodejs,html,css,mysql,postgres,docker,laravel,azure,powershell,linux,git,github&theme=dark" /> <br/><br/><img src="./assets/gifs/miku.gif" width="31%" alt="miku gif" /> <img src="./assets/gifs/emu_otori.gif" width="31%" alt="emu gif" /> <img src="./assets/gifs/nene_kusanagi.gif" width="31%" alt="nene gif" /> |
+| Training Arc: Emu x Nene Sync | Always leveling up: Solidity, cloud y arquitectura de software. <br/><br/><img src="https://skillicons.dev/icons?i=solidity,vscode,figma&theme=dark" /> <br/><br/><img src="./assets/gifs/emu_x_nene.gif" width="62%" alt="emu x nene gif" /> <br/><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=00D1B2&center=true&vCenter=true&width=760&lines=Currently+training+in%3A+Solidity%2C+Cloud%2C+Better+Architecture;Never+stop+leveling+up+%F0%9F%9A%80" alt="training typing" /> |
+| Power Level: Uma x Mambo | Progreso constante, sprint tras sprint. <br/><br/><img src="https://github-readme-stats.vercel.app/api?username=Johan1531&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=ff4ecd" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan1531&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" width="37%" /> <br/><br/><img src="https://streak-stats.demolab.com?user=Johan1531&theme=tokyonight-duo&hide_border=true&ring=36BCF7&fire=ff4ecd&currStreakLabel=36BCF7" width="62%" /> <br/><br/><img src="https://github-readme-activity-graph.vercel.app/graph?username=Johan1531&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%" alt="activity graph" /> <br/><br/><img src="./assets/gifs/uma_musume.gif" width="48%" alt="uma musume gif" /> <img src="./assets/gifs/mambo.gif" width="48%" alt="mambo gif" /> |
 
 ---
-
-<div align="center">
-
-## About Me
-
-</div>
-
-- Estudiante de Ingenieria en Informatica en UPIICSA-IPN.
-- Apasionado por la programacion y desarrollo de software, con enfoque en backend y automatizacion.
-- Tambien soy fan del anime y cultura japonesa; eso inspira mi estilo y constancia al aprender.
-
-<div align="center">
-
-<img src="./assets/gifs/rem.gif" width="46%" alt="rem gif" />
-<img src="./assets/gifs/yotsuba.gif" width="46%" alt="yotsuba gif" />
-
-</div>
-
----
-
-<div align="center">
-
-## Tech Arsenal
-
-Miku + Emu x Nene zone: precision, creatividad y teamwork para convertir ideas en software real.
-
-<img src="https://skillicons.dev/icons?i=python,php,js,nodejs,html,css,mysql,postgres,docker,laravel,azure,powershell,linux,git,github&theme=dark" />
-
-<img src="./assets/gifs/miku.gif" width="46%" alt="miku gif" />
-<img src="./assets/gifs/emu_otori.gif" width="46%" alt="emu gif" />
-
-## Training Arc
-
-<img src="https://skillicons.dev/icons?i=solidity,vscode,figma&theme=dark" />
-
-### Emu x Nene Sync
-
-<img src="./assets/gifs/nene_kusanagi.gif" width="46%" alt="nene gif" />
-<img src="./assets/gifs/emu_x_nene.gif" width="46%" alt="emu x nene gif" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=00D1B2&center=true&vCenter=true&width=760&lines=Currently+training+in%3A+Solidity%2C+Cloud%2C+Better+Architecture;Never+stop+leveling+up+%F0%9F%9A%80" alt="training typing" />
-
-</div>
 
 ---
 
