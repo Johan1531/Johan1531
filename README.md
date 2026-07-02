@@ -17,19 +17,25 @@
 
 ## Professional Summary
 
-Soy estudiante de Ingenieria en Informatica en UPIICSA-IPN con enfoque en backend y automatizacion. Me interesa crear software util, mantenible y orientado a resolver problemas reales.
-
-- Construyo soluciones de punta a punta: analisis, implementacion, pruebas y entrega.
-- Me enfoco en APIs, procesos automatizados, manejo de datos y mejora continua.
-- Busco fortalecer fundamentos de arquitectura, cloud y estandares de calidad.
-- Trabajo con mentalidad de producto: claridad en objetivos, orden tecnico y resultados medibles.
-
-Tambien me inspira la cultura japonesa y el anime, y lo integro como parte visual de mi perfil sin perder un enfoque profesional.
-
-<div align="center">
-  <img src="./assets/gifs/rem_v2.gif" width="46%" alt="rem gif" />
-  <img src="./assets/gifs/yotsuba_v2.gif" width="46%" alt="yotsuba gif" />
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      Soy estudiante de Ingenieria en Informatica en UPIICSA-IPN con enfoque en backend y automatizacion.
+      <br/><br/>
+      <ul>
+        <li>Diseno y desarrollo soluciones de punta a punta: analisis, implementacion, pruebas y entrega.</li>
+        <li>Trabajo con APIs, procesos automatizados, SQL y herramientas de desarrollo orientadas a productividad.</li>
+        <li>Me enfoco en codigo mantenible, estructura clara y mejora continua de procesos.</li>
+        <li>Objetivo profesional: consolidarme como backend developer con enfoque en escalabilidad y eficiencia.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img src="./assets/gifs/rem_v3.gif" width="95%" alt="rem" />
+      <br/>
+      <sub>Disciplina y constancia en cada entrega</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,28 +43,52 @@ Tambien me inspira la cultura japonesa y el anime, y lo integro como parte visua
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,nodejs,html,css,mysql,postgres,docker,laravel,azure,powershell,linux,git,github&theme=dark" />
-  <br/>
-  <img src="./assets/gifs/miku.gif" width="31%" alt="miku gif" />
-  <img src="./assets/gifs/emu_otori.gif" width="31%" alt="emu otori gif" />
-  <img src="./assets/gifs/nene_kusanagi.gif" width="31%" alt="nene kusanagi gif" />
 </div>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./assets/img/python.jpg" width="95%" alt="python" />
+      <br/>
+      <sub>Backend scripting</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/gifs/miku.gif" width="95%" alt="miku" />
+      <br/>
+      <sub>Creatividad tecnica</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/gifs/emu_otori.gif" width="95%" alt="emu" />
+      <br/>
+      <sub>Energia para construir</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Formacion y Ruta de Crecimiento
 
-- Carrera: Ingenieria en Informatica, UPIICSA-IPN.
-- Base tecnica actual: backend, scripting, SQL y herramientas de desarrollo.
-- Objetivo de corto plazo: profundizar en diseno de APIs, arquitectura y despliegue en la nube.
-- Objetivo de mediano plazo: consolidarme como backend developer con foco en automatizacion y escalabilidad.
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,vscode,figma&theme=dark" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D1B2&center=true&vCenter=true&width=760&lines=Learning+path%3A+Solidity%2C+Cloud%2C+Software+Architecture;Always+improving+code+quality+and+delivery" alt="learning typing" />
-  <br/>
-  <img src="./assets/gifs/emu_x_nene.gif" width="62%" alt="emu x nene gif" />
-</div>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <ul>
+        <li>Carrera: Ingenieria en Informatica, UPIICSA-IPN.</li>
+        <li>Base actual: backend, scripting, SQL, Linux y control de versiones.</li>
+        <li>Corto plazo: reforzar diseno de APIs, arquitectura y despliegue cloud.</li>
+        <li>Mediano plazo: escalar a proyectos con mejor observabilidad, calidad y automatizacion.</li>
+      </ul>
+      <img src="https://skillicons.dev/icons?i=solidity,vscode,figma&theme=dark" />
+      <br/>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D1B2&center=true&vCenter=true&width=760&lines=Learning+path%3A+Solidity%2C+Cloud%2C+Software+Architecture;Always+improving+code+quality+and+delivery" alt="learning typing" />
+    </td>
+    <td width="45%" align="center" valign="top">
+      <img src="./assets/img/ganyu.jpg" width="95%" alt="ganyu" />
+      <br/>
+      <img src="./assets/gifs/emu_x_nene.gif" width="95%" alt="emu x nene" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -71,27 +101,26 @@ Tambien me inspira la cultura japonesa y el anime, y lo integro como parte visua
   <img src="https://streak-stats.demolab.com?user=Johan1531&theme=tokyonight&hide_border=true&ring=36BCF7&fire=ff4ecd&currStreakLabel=36BCF7" width="62%" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johan1531&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%" alt="activity graph" />
-  <br/>
-  <img src="./assets/gifs/uma_musume.gif" width="31%" alt="uma musume gif" />
-  <img src="./assets/gifs/mambo.gif" width="31%" alt="mambo gif" />
-  <img src="./assets/gifs/asuka.gif" width="31%" alt="asuka gif" />
-  <br/>
-  <img src="./assets/gifs/reze.gif" width="31%" alt="reze gif" />
 </div>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><img src="./assets/gifs/uma_musume.gif" width="95%" alt="uma" /></td>
+    <td align="center" width="25%"><img src="./assets/gifs/mambo.gif" width="95%" alt="mambo" /></td>
+    <td align="center" width="25%"><img src="./assets/gifs/asuka.gif" width="95%" alt="asuka" /></td>
+    <td align="center" width="25%"><img src="./assets/gifs/reze.gif" width="95%" alt="reze" /></td>
+  </tr>
+</table>
 
 ---
 
 ## Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="mailto:tu_correo@ejemplo.com">
+  <a href="mailto:jteranceron@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 
 CDMX, Mexico · UPIICSA-IPN
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:e91e63" width="100%" />
 </div>
