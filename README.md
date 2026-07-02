@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="./assets/img/Archlinux.jpg" width="95%" alt="Arch Linux" />
+      <img src="./assets/img/ArchLinux.jpg" width="95%" alt="Arch Linux" />
       <br/>
       <sub>Backend scripting</sub>
     </td>
@@ -58,7 +58,7 @@
       <sub>Creatividad tecnica</sub>
     </td>
     <td align="center" width="33%">
-      <img src="./assets/gifs/emu_otori.gif" width="95%" alt="emu" />
+      <img src="./assets/img/Sr_back.jpg" width="95%" alt="Senior Backend Developer" />
       <br/>
       <sub>Energia para construir</sub>
     </td>
@@ -107,8 +107,6 @@
   <tr>
     <td align="center" width="25%"><img src="./assets/gifs/uma_musume.gif" width="95%" alt="uma" /></td>
     <td align="center" width="25%"><img src="./assets/gifs/mambo.gif" width="95%" alt="mambo" /></td>
-    <td align="center" width="25%"><img src="./assets/gifs/asuka.gif" width="95%" alt="asuka" /></td>
-    <td align="center" width="25%"><img src="./assets/gifs/reze.gif" width="95%" alt="reze" /></td>
   </tr>
 </table>
 
