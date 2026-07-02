@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="./assets/img/python.jpg" width="95%" alt="python" />
+      <img src="./assets/img/Archlinux.jpg" width="95%" alt="Arch Linux" />
       <br/>
       <sub>Backend scripting</sub>
     </td>
