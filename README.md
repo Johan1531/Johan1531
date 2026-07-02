@@ -87,6 +87,7 @@
         <img src="https://skillicons.dev/icons?i=solidity,vscode,figma&theme=dark" />
         <br/>
         <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D1B2&center=true&vCenter=true&width=760&lines=Learning+path%3A+Solidity%2C+Cloud%2C+Software+Architecture;Always+improving+code+quality+and+delivery" alt="learning typing" />
+        <img src="./assets/img/python.jpg" width="95%" alt="python" />
       </div>
     </td>
     <td width="45%" align="center" valign="top">
