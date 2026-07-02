@@ -17,6 +17,7 @@
 
 ## Professional Summary
 
+<div align="center">
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -36,6 +37,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -45,6 +47,7 @@
   <img src="https://skillicons.dev/icons?i=python,php,js,nodejs,html,css,mysql,postgres,docker,laravel,azure,powershell,linux,git,github&theme=dark" />
 </div>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="33%">
@@ -64,11 +67,13 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 ## Formacion y Ruta de Crecimiento
 
+<div align="center">
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -78,9 +83,11 @@
         <li>Corto plazo: reforzar diseno de APIs, arquitectura y despliegue cloud.</li>
         <li>Mediano plazo: escalar a proyectos con mejor observabilidad, calidad y automatizacion.</li>
       </ul>
-      <img src="https://skillicons.dev/icons?i=solidity,vscode,figma&theme=dark" />
-      <br/>
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D1B2&center=true&vCenter=true&width=760&lines=Learning+path%3A+Solidity%2C+Cloud%2C+Software+Architecture;Always+improving+code+quality+and+delivery" alt="learning typing" />
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=solidity,vscode,figma&theme=dark" />
+        <br/>
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D1B2&center=true&vCenter=true&width=760&lines=Learning+path%3A+Solidity%2C+Cloud%2C+Software+Architecture;Always+improving+code+quality+and+delivery" alt="learning typing" />
+      </div>
     </td>
     <td width="45%" align="center" valign="top">
       <img src="./assets/img/ganyu.jpg" width="95%" alt="ganyu" />
@@ -89,6 +96,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -103,12 +111,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johan1531&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%" alt="activity graph" />
 </div>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="25%"><img src="./assets/gifs/uma_musume.gif" width="95%" alt="uma" /></td>
     <td align="center" width="25%"><img src="./assets/gifs/mambo.gif" width="95%" alt="mambo" /></td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -119,6 +129,7 @@
     <img src="https://img.shields.io/badge/Email-Contactame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 
+<br/>
 CDMX, Mexico · UPIICSA-IPN
 
 </div>
