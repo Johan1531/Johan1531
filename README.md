@@ -17,27 +17,47 @@
 
 ## Professional Summary
 
-Estudiante de Ingenieria en Informatica en UPIICSA-IPN, enfocado en desarrollo backend, automatizacion y mejora continua.
+Soy estudiante de Ingenieria en Informatica en UPIICSA-IPN con enfoque en backend y automatizacion. Me interesa crear software util, mantenible y orientado a resolver problemas reales.
 
-- Desarrollo soluciones de punta a punta: analisis, construccion y entrega.
-- Interes principal en APIs, scripts de automatizacion y buenas practicas de ingenieria.
-- En aprendizaje continuo de bases de datos, contenedores, cloud y arquitectura.
-- Tambien me inspira la cultura anime/japonesa como parte de mi disciplina de estudio.
+- Construyo soluciones de punta a punta: analisis, implementacion, pruebas y entrega.
+- Me enfoco en APIs, procesos automatizados, manejo de datos y mejora continua.
+- Busco fortalecer fundamentos de arquitectura, cloud y estandares de calidad.
+- Trabajo con mentalidad de producto: claridad en objetivos, orden tecnico y resultados medibles.
+
+Tambien me inspira la cultura japonesa y el anime, y lo integro como parte visual de mi perfil sin perder un enfoque profesional.
+
+<div align="center">
+  <img src="./assets/gifs/rem_v2.gif" width="46%" alt="rem gif" />
+  <img src="./assets/gifs/yotsuba_v2.gif" width="46%" alt="yotsuba gif" />
+</div>
 
 ---
 
-## Core Stack
+## Conocimientos Tecnicos
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,php,js,nodejs,html,css,mysql,postgres,docker,laravel,azure,powershell,linux,git,github&theme=dark" />
+  <br/>
+  <img src="./assets/gifs/miku.gif" width="31%" alt="miku gif" />
+  <img src="./assets/gifs/emu_otori.gif" width="31%" alt="emu otori gif" />
+  <img src="./assets/gifs/nene_kusanagi.gif" width="31%" alt="nene kusanagi gif" />
 </div>
 
-## Currently Learning
+---
+
+## Formacion y Ruta de Crecimiento
+
+- Carrera: Ingenieria en Informatica, UPIICSA-IPN.
+- Base tecnica actual: backend, scripting, SQL y herramientas de desarrollo.
+- Objetivo de corto plazo: profundizar en diseno de APIs, arquitectura y despliegue en la nube.
+- Objetivo de mediano plazo: consolidarme como backend developer con foco en automatizacion y escalabilidad.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=solidity,vscode,figma&theme=dark" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=00D1B2&center=true&vCenter=true&width=760&lines=Learning+path%3A+Solidity%2C+Cloud%2C+Software+Architecture;Always+improving+code+quality+and+delivery" alt="learning typing" />
+  <br/>
+  <img src="./assets/gifs/emu_x_nene.gif" width="62%" alt="emu x nene gif" />
 </div>
 
 ---
@@ -51,20 +71,6 @@ Estudiante de Ingenieria en Informatica en UPIICSA-IPN, enfocado en desarrollo b
   <img src="https://streak-stats.demolab.com?user=Johan1531&theme=tokyonight&hide_border=true&ring=36BCF7&fire=ff4ecd&currStreakLabel=36BCF7" width="62%" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Johan1531&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%" alt="activity graph" />
-</div>
-
----
-
-## Anime Corner
-
-<div align="center">
-  <img src="./assets/gifs/rem.gif" width="31%" alt="rem gif" />
-  <img src="./assets/gifs/yotsuba.gif" width="31%" alt="yotsuba gif" />
-  <img src="./assets/gifs/miku.gif" width="31%" alt="miku gif" />
-  <br/>
-  <img src="./assets/gifs/emu_otori.gif" width="31%" alt="emu otori gif" />
-  <img src="./assets/gifs/nene_kusanagi.gif" width="31%" alt="nene kusanagi gif" />
-  <img src="./assets/gifs/emu_x_nene.gif" width="31%" alt="emu x nene gif" />
   <br/>
   <img src="./assets/gifs/uma_musume.gif" width="31%" alt="uma musume gif" />
   <img src="./assets/gifs/mambo.gif" width="31%" alt="mambo gif" />
