@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Johan%20Teran%20%7C%20Shiro1531&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:e91e63&fontColor=ffffff&animation=fadeIn&fontSize=42&desc=Backend%20Developer%20%7C%20Automation%20Enthusiast&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Johan%20Teran&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:e91e63&fontColor=ffffff&animation=fadeIn&fontSize=42&desc=Backend%20Developer%20%7C%20Automation%20Enthusiast&descAlignY=62" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2400&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Johan+Teran;Backend+%7C+Automation+%7C+Cloud+Foundations;Building+practical+software+end-to-end" alt="Typing SVG" />
 
