@@ -24,7 +24,7 @@
       Soy estudiante de Ingenieria en Informatica en UPIICSA-IPN con enfoque en backend y automatizacion.
       <br/><br/>
       <ul>
-        <li>Diseno y desarrollo soluciones de punta a punta: analisis, implementacion, pruebas y entrega.</li>
+        <li>Diseño y desarrollo soluciones de punta a punta: analisis, implementacion, pruebas y entrega.</li>
         <li>Trabajo con APIs, procesos automatizados, SQL y herramientas de desarrollo orientadas a productividad.</li>
         <li>Me enfoco en codigo mantenible, estructura clara y mejora continua de procesos.</li>
         <li>Objetivo profesional: consolidarme como backend developer con enfoque en escalabilidad y eficiencia.</li>
@@ -80,7 +80,7 @@
       <ul>
         <li>Carrera: Ingenieria en Informatica, UPIICSA-IPN.</li>
         <li>Base actual: backend, scripting, SQL, Linux y control de versiones.</li>
-        <li>Corto plazo: reforzar diseno de APIs, arquitectura y despliegue cloud.</li>
+        <li>Corto plazo: reforzar diseño de APIs, arquitectura y despliegue cloud.</li>
         <li>Mediano plazo: escalar a proyectos con mejor observabilidad, calidad y automatizacion.</li>
       </ul>
       <div align="center">
